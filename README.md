@@ -44,11 +44,7 @@ lib/
 │   ├── auth/                  # Xác thực (pages, providers, services, widgets)
 │   ├── task/                  # Quản lý task (models, pages, providers, services, widgets)
 │   └── task_list/             # Quản lý danh sách task (models, providers, services, widgets)
-├── models/                    # Data models
-├── screens/                   # Các màn hình chính
-├── repositories/              # Repository layer
-├── widgets/                   # Widget tái sử dụng
-└── design/                    # Design system
+└── repositories/              # Repository layer
 ```
 
 ## Cài đặt & Chạy

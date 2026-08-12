@@ -1,0 +1,2 @@
+-- Deprecated compatibility file.
+-- Use supabase/shared_tasks_fix.sql for the current shared list/task policies.
